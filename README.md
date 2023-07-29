@@ -1,2 +1,2 @@
 # Travel-website2
-Static website only using float. No javascript
+Simple static website only using float. Learnt from Harshit Vasisth Youtube Channel.
